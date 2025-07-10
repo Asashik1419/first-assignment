@@ -97,6 +97,8 @@ nav h3{
     background-color: #4E47FF1A;
     margin: 140px;
     padding: 50px;
+    margin-top: 0px;
+    border-radius: 15px;
 }
 .Joined{
     display: flex;
@@ -115,4 +117,10 @@ nav h3{
     font-weight: bold;
     font-size: 80px;
     margin: 0px;
+}
+.Joined-p{
+    font-weight: 400;
+    font-size: 20px;
+    text-align: center;
+    color: #00000080;
 }
