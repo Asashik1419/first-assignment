@@ -91,3 +91,28 @@ nav h3{
     height: 330;
     border-radius: 35px;
 }
+
+/* Joined styles */
+.Joined-section{
+    background-color: #4E47FF1A;
+    margin: 140px;
+    padding: 50px;
+}
+.Joined{
+    display: flex;
+    justify-content: center;
+    gap: 158px;
+    
+}
+.Joined-usr{
+    font-weight: bold;
+    font-size: 38px;
+    color: #252432;
+    text-align: center;
+    gap: 40px;
+}
+.joined-title{
+    font-weight: bold;
+    font-size: 80px;
+    margin: 0px;
+}
