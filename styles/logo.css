@@ -173,3 +173,53 @@ nav h3{
     margin:0px;
     padding: 0px;
 }
+/* form styles */
+.form-section{
+    margin-top: 90px;
+    display: flex;
+    padding: 150px;
+    gap: 115px;
+    background-color: #D6DDED1A;
+}
+input[type="email"], input[type="text"], input{
+    width: 497px;
+    height: 70px;
+    border-radius: 10px;
+    background-color: white;
+    display: block;
+    padding: 10px 20px;
+    margin-bottom: 19px;
+    border: 1px solid #D6DDED;
+}
+textarea{
+    width: 497px;
+    height: 135px;
+    border-radius: 10px;
+    background-color: white;
+    display: block;
+    padding-top: 20px;
+    padding-left: 35px;
+    margin-bottom: 19px;
+    border: 1px solid #D6DDED;
+}
+.btn{
+    background-color: #4E47FF;
+    color: white;
+    font-weight: bold;
+    font-size: 16px;
+    padding: 19px 201px;
+    border-radius: 10px;
+    border: none;
+    display: block;
+    margin: 0 auto;
+}
+.form{
+    font-weight: bold;
+    font-size: 70px;
+}
+.Email{
+    font-weight: 600;
+    font-size: 18px;
+    display: block;
+    margin: 10px auto;
+}
