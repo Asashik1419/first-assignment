@@ -124,3 +124,16 @@ nav h3{
     text-align: center;
     color: #00000080;
 }
+/* what our users say section */
+.our-title{
+    font-weight: bold;
+    font-size: 42px;
+    color: #252432;
+    align-items: center;
+}
+.our-container{
+    display: flex;
+}
+.Reviewer{
+    display: flex;
+}
